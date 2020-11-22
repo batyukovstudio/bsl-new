@@ -1,2 +1,2 @@
 # BSLNew
-Batyukov Studio Laravel Core composer пакет для упрощения создания новых пакетов
+Batyukov Studio Laravel New composer пакет для упрощения создания новых пакетов
