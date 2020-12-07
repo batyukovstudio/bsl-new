@@ -16,6 +16,13 @@
             "BSLNew\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "BSLNew\\App\\Providers\\AppServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }

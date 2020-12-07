@@ -1,8 +1,8 @@
 <?php
 
-namespace BSLNew\Models;
+namespace BSLNew\App\Models;
 
-use BSLCore\Models\Model as DefaultModel;
+use BSLCore\App\Models\Model as DefaultModel;
 
 class Model extends DefaultModel
 {

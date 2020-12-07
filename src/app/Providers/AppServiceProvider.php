@@ -1,6 +1,6 @@
 <?php
 
-namespace BSLNew\Providers;
+namespace BSLNew\App\Providers;
 
 //use Illuminate\Foundation\Application as LaravelApplication;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
